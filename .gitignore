@@ -54,9 +54,10 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+### This time I need to allow .env fil acces
 # dotenv environment variables file
-.envrc
-.env
+#.envrc
+#.env
 
 # Editor
 .vscode/chrome
